@@ -1,0 +1,46 @@
+
+.nav{
+  background-color: rgb(19, 19, 61);
+  display: flex;
+margin: -2px;
+justify-content: space-between;
+  
+}
+
+.header{
+  background-color: rgb(19, 19, 61);
+  color: white;
+  padding-bottom: 5vw;
+  margin-top: 0;
+  padding-top: 0.1vw;
+  margin: 0;
+}
+
+#logoRight{
+  opacity: 0.5;
+  width: 5vw;
+  height: 5vw;
+}
+#logoLeft{
+  opacity: 0.5;
+  width: 5vw;
+  height: 5vw;
+
+}
+
+.navIcon{
+  display: flex;
+  flex-direction: row;}
+
+.text{
+  padding-right: 50vw;
+}
+
+.icones{
+display: flex;
+justify-content: center;
+margin-top: 10vw;
+
+}
+
+
